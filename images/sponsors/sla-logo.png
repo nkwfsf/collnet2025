@@ -1,0 +1,641 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js no-svg">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+
+<title>Page not found &#8211; Slp</title>
+<meta name='robots' content='max-image-preview:large' />
+<script type="text/javascript"></script><link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Slp &raquo; Feed" href="https://www.slp.org.in/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Slp &raquo; Comments Feed" href="https://www.slp.org.in/comments/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.slp.org.in\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.3.5"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='embed-pdf-viewer-css' href='https://www.slp.org.in/wp-content/plugins/embed-pdf-viewer/css/embed-pdf-viewer.css?ver=2.4.6' type='text/css' media='screen' />
+<link rel='stylesheet' id='store-message-block-css' href='https://www.slp.org.in/wp-content/plugins/catenis-blocks/style/StoreMessageBlock.css?ver=1668646494' type='text/css' media='all' />
+<link rel='stylesheet' id='store-file-block-css' href='https://www.slp.org.in/wp-content/plugins/catenis-blocks/style/StoreFileBlock.css?ver=1668646494' type='text/css' media='all' />
+<link rel='stylesheet' id='send-message-block-css' href='https://www.slp.org.in/wp-content/plugins/catenis-blocks/style/SendMessageBlock.css?ver=1668646494' type='text/css' media='all' />
+<link rel='stylesheet' id='send-file-block-css' href='https://www.slp.org.in/wp-content/plugins/catenis-blocks/style/SendFileBlock.css?ver=1668646494' type='text/css' media='all' />
+<link rel='stylesheet' id='spin-css' href='https://www.slp.org.in/wp-content/plugins/catenis-blocks/style/lib/spin.css?ver=1668646494' type='text/css' media='all' />
+<link rel='stylesheet' id='display-message-block-css' href='https://www.slp.org.in/wp-content/plugins/catenis-blocks/style/DisplayMessageBlock.css?ver=1668646494' type='text/css' media='all' />
+<link rel='stylesheet' id='message-input-block-css' href='https://www.slp.org.in/wp-content/plugins/catenis-blocks/style/MessageInputBlock.css?ver=1668646494' type='text/css' media='all' />
+<link rel='stylesheet' id='save-message-block-css' href='https://www.slp.org.in/wp-content/plugins/catenis-blocks/style/SaveMessageBlock.css?ver=1668646494' type='text/css' media='all' />
+<link rel='stylesheet' id='message-history-block-css' href='https://www.slp.org.in/wp-content/plugins/catenis-blocks/style/MessageHistoryBlock.css?ver=1668646494' type='text/css' media='all' />
+<link rel='stylesheet' id='message-inbox-block-css' href='https://www.slp.org.in/wp-content/plugins/catenis-blocks/style/MessageInboxBlock.css?ver=1668646494' type='text/css' media='all' />
+<link rel='stylesheet' id='permissions-block-css' href='https://www.slp.org.in/wp-content/plugins/catenis-blocks/style/PermissionsBlock.css?ver=1668646494' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-block-style-css' href='https://www.slp.org.in/wp-content/plugins/social-icons-widget-by-wpzoom/block/dist/style-wpzoom-social-icons.css?ver=4.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='blocks-kit-style-css-css' href='https://www.slp.org.in/wp-content/plugins/blocks-kit/dist/blocks.style.build.css?ver=6.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='blocks-kit-all-css-css' href='https://www.slp.org.in/wp-content/plugins/blocks-kit/dist/webfonts/css/all.css?ver=6.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='plp-block-style-css-css' href='https://www.slp.org.in/wp-content/plugins/blocks-kit/dist/blocks.style.build.css?ver=6.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css' href='https://www.slp.org.in/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='plyr-css-css' href='https://www.slp.org.in/wp-content/plugins/easy-video-player/lib/plyr.css?ver=6.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='prwirepro_main-css' href='https://www.slp.org.in/wp-content/plugins/press-release-distribution/assets/css/prwirepro_main.css?ver=1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css' href='https://www.slp.org.in/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.6.3.1' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='ow-toolkit-css' href='https://www.slp.org.in/wp-content/plugins/seowave-toolkit/lib/css/plugin.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='social-icons-general-css' href='//www.slp.org.in/wp-content/plugins/social-icons/assets/css/social-icons.css?ver=1.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css' href='https://www.slp.org.in/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=8.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css' href='https://www.slp.org.in/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=8.6.1' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css' href='https://www.slp.org.in/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=8.6.1' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='fancybox-0-css' href='https://www.slp.org.in/wp-content/plugins/nextgen-gallery/static/Lightbox/fancybox/jquery.fancybox-1.3.4.css?ver=3.59.6' type='text/css' media='all' />
+<link rel='stylesheet' id='cta-gutenberg-font-css' href='https://fonts.googleapis.com/css2?family=Lato%3Aital%2Cwght%400%2C300%3B0%2C400%3B0%2C700%3B1%2C300%3B1%2C400%3B1%2C700&#038;display=swap&#038;ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='cta-gutenberg-css-css' href='https://www.slp.org.in/wp-content/plugins/call-to-action-block-wppool/blocks/dist/blocks.style.build.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='seowave-fonts-css' href='https://fonts.googleapis.com/css?family=Montserrat%3A400%2C700%7CDroid+Serif%3A400%2C700%2C400italic%2C700italic%7CCabin%3A400%2C500%2C600%2C700%2C400italic%2C500italic%2C600italic%2C700italic&#038;subset=latin%2Clatin-ext&#038;ver=6.3.5' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='ie-css-css' href='https://www.slp.org.in/wp-content/themes/seowave/css/ie.css?ver=6.3.5' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='dashicons-css' href='https://www.slp.org.in/wp-includes/css/dashicons.min.css?ver=6.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css' href='https://www.slp.org.in/wp-content/themes/seowave/fonts/genericons.css?ver=6.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-min-css' href='https://www.slp.org.in/wp-content/themes/seowave/css/font-awesome.min.css?ver=6.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-min-css' href='https://www.slp.org.in/wp-content/themes/seowave/css/bootstrap.min.css?ver=6.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='owlcarousel-min-css' href='https://www.slp.org.in/wp-content/themes/seowave/vendors/owl.carousel/css/owl.carousel.min.css?ver=6.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='owlcarousel-theme-css' href='https://www.slp.org.in/wp-content/themes/seowave/vendors/owl.carousel/css/owl.theme.default.min.css?ver=6.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='flexslider-css' href='https://www.slp.org.in/wp-content/plugins/js_composer/assets/lib/flexslider/flexslider.min.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='seowave-woocommerce-css' href='https://www.slp.org.in/wp-content/themes/seowave/css/woocommerce.css?ver=6.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='seowave-stylesheet-css' href='https://www.slp.org.in/wp-content/themes/seowave/style.css?ver=6.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='seowave-responsive-style-css' href='https://www.slp.org.in/wp-content/themes/seowave/css/responsive.css?ver=6.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='seowave-theme-style-css' href='https://www.slp.org.in/wp-content/themes/seowave/css/theme.css?ver=6.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-socicon-css' href='https://www.slp.org.in/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-socicon.css?ver=1731659449' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-genericons-css' href='https://www.slp.org.in/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/genericons.css?ver=1731659449' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-academicons-css' href='https://www.slp.org.in/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/academicons.min.css?ver=1731659449' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-font-awesome-3-css' href='https://www.slp.org.in/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome-3.min.css?ver=1731659449' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-styles-css' href='https://www.slp.org.in/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-social-icons-styles.css?ver=1731659449' type='text/css' media='all' />
+<link rel='stylesheet' id='heateor_sss_frontend_css-css' href='https://www.slp.org.in/wp-content/plugins/sassy-social-share/public/css/sassy-social-share-public.css?ver=3.3.69' type='text/css' media='all' />
+<style id='heateor_sss_frontend_css-inline-css' type='text/css'>
+.heateor_sss_button_instagram span.heateor_sss_svg,a.heateor_sss_instagram span.heateor_sss_svg{background:radial-gradient(circle at 30% 107%,#fdf497 0,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285aeb 90%)}.heateor_sss_horizontal_sharing .heateor_sss_svg,.heateor_sss_standard_follow_icons_container .heateor_sss_svg{color:#fff;border-width:0px;border-style:solid;border-color:transparent}.heateor_sss_horizontal_sharing .heateorSssTCBackground{color:#666}.heateor_sss_horizontal_sharing span.heateor_sss_svg:hover,.heateor_sss_standard_follow_icons_container span.heateor_sss_svg:hover{border-color:transparent;}.heateor_sss_vertical_sharing span.heateor_sss_svg,.heateor_sss_floating_follow_icons_container span.heateor_sss_svg{color:#fff;border-width:0px;border-style:solid;border-color:transparent;}.heateor_sss_vertical_sharing .heateorSssTCBackground{color:#666;}.heateor_sss_vertical_sharing span.heateor_sss_svg:hover,.heateor_sss_floating_follow_icons_container span.heateor_sss_svg:hover{border-color:transparent;}@media screen and (max-width:783px) {.heateor_sss_vertical_sharing{display:none!important}}div.heateor_sss_mobile_footer{display:none;}@media screen and (max-width:783px){div.heateor_sss_bottom_sharing .heateorSssTCBackground{background-color:white}div.heateor_sss_bottom_sharing{width:100%!important;left:0!important;}div.heateor_sss_bottom_sharing a{width:10% !important;}div.heateor_sss_bottom_sharing .heateor_sss_svg{width: 100% !important;}div.heateor_sss_bottom_sharing div.heateorSssTotalShareCount{font-size:1em!important;line-height:28px!important}div.heateor_sss_bottom_sharing div.heateorSssTotalShareText{font-size:.7em!important;line-height:0px!important}div.heateor_sss_mobile_footer{display:block;height:40px;}.heateor_sss_bottom_sharing{padding:0!important;display:block!important;width:auto!important;bottom:-2px!important;top: auto!important;}.heateor_sss_bottom_sharing .heateor_sss_square_count{line-height:inherit;}.heateor_sss_bottom_sharing .heateorSssSharingArrow{display:none;}.heateor_sss_bottom_sharing .heateorSssTCBackground{margin-right:1.1em!important}}
+</style>
+<link rel='stylesheet' id='child-style-css' href='https://www.slp.org.in/wp-content/themes/seowave-child/style.css?ver=6.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='bellows-css' href='https://www.slp.org.in/wp-content/plugins/bellows-accordion-menu/assets/css/bellows.min.css?ver=1.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bellows-font-awesome-css' href='https://www.slp.org.in/wp-content/plugins/bellows-accordion-menu/assets/css/fontawesome/css/font-awesome.min.css?ver=1.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bellows-blue-material-css' href='https://www.slp.org.in/wp-content/plugins/bellows-accordion-menu/assets/css/skins/blue-material.css?ver=1.4.3' type='text/css' media='all' />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-academicons-woff2-css' href='https://www.slp.org.in/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.woff2?v=1.9.2'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-fontawesome-3-woff2-css' href='https://www.slp.org.in/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/fontawesome-webfont.woff2?v=4.7.0'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-genericons-woff-css' href='https://www.slp.org.in/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/Genericons.woff'  type='font/woff' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-socicon-woff2-css' href='https://www.slp.org.in/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.woff2?v=4.3.2'  type='font/woff2' crossorigin />
+<script type='text/javascript' src='https://www.slp.org.in/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2' id='wp-polyfill-inert-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef' id='wp-i18n-js'></script>
+<script id="wp-i18n-js-after" type="text/javascript">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-includes/js/jquery/jquery.min.js?ver=3.7.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/plugins/catenis-blocks/js/lib/spin.umd.js?ver=4.0.0' id='spin-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/plugins/catenis-blocks/js/StoreMessageBlock.js?ver=1668646494' id='store-message-block-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/plugins/catenis-blocks/js/lib/buffer.min.js?ver=5.2.1' id='buffer-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/plugins/catenis-blocks/js/lib/setImmediate.min.js?ver=1.0.5' id='setImmediate-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/plugins/catenis-blocks/js/lib/sjcl-sha1.min.js?ver=1.0.8-sha1' id='sjcl-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/plugins/catenis-blocks/js/CtnFileHeader.js?ver=1668646494' id='CtnFileHeader-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/plugins/catenis-blocks/js/MessageChunker.js?ver=1668646494' id='MessageChunker-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/plugins/catenis-blocks/js/StoreFileBlock.js?ver=1668646494' id='store-file-block-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/plugins/catenis-blocks/js/SendMessageBlock.js?ver=1668646494' id='send-message-block-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/plugins/catenis-blocks/js/SendFileBlock.js?ver=1668646494' id='send-file-block-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/plugins/catenis-blocks/js/DisplayMessageBlock.js?ver=1668646494' id='display-message-block-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/plugins/catenis-blocks/js/SaveMessageBlock.js?ver=1668646494' id='save-message-block-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-includes/js/dist/vendor/moment.min.js?ver=2.29.4' id='moment-js'></script>
+<script id="moment-js-after" type="text/javascript">
+moment.updateLocale( 'en_US', {"months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"week":{"dow":1},"longDateFormat":{"LT":"g:i a","LTS":null,"L":null,"LL":"F j, Y","LLL":"F j, Y g:i a","LLLL":null}} );
+</script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/plugins/catenis-blocks/js/MessageHistoryBlock.js?ver=1668646494' id='message-history-block-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/plugins/catenis-blocks/js/MessageInboxBlock.js?ver=1668646494' id='message-inbox-block-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/plugins/catenis-blocks/js/PermissionsBlock.js?ver=1668646494' id='permissions-block-js'></script>
+<script type='text/javascript' id='plyr-js-js-extra'>
+/* <![CDATA[ */
+var easy_video_player = {"plyr_iconUrl":"https:\/\/www.slp.org.in\/wp-content\/plugins\/easy-video-player\/lib\/plyr.svg","plyr_blankVideo":"https:\/\/www.slp.org.in\/wp-content\/plugins\/easy-video-player\/lib\/blank.mp4"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/plugins/easy-video-player/lib/plyr.js?ver=6.3.5' id='plyr-js-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.6.3.1' id='tp-tools-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.6.3.1' id='revmin-js'></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?v=3.exp&#038;ver=6.3.5' id='gmap-api-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/plugins/seowave-toolkit/lib/js/plugin.js?ver=1.0' id='ow-toolkit-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.8.6.1' id='jquery-blockui-js' data-wp-strategy='defer'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/www.slp.org.in","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=8.6.1' id='wc-add-to-cart-js' data-wp-strategy='defer'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.8.6.1' id='js-cookie-js' defer data-wp-strategy='defer'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=8.6.1' id='woocommerce-js' defer data-wp-strategy='defer'></script>
+<script type='text/javascript' id='photocrati_ajax-js-extra'>
+/* <![CDATA[ */
+var photocrati_ajax = {"url":"https:\/\/www.slp.org.in\/index.php?photocrati_ajax=1","rest_url":"https:\/\/www.slp.org.in\/wp-json\/","wp_home_url":"https:\/\/www.slp.org.in","wp_site_url":"https:\/\/www.slp.org.in","wp_root_url":"https:\/\/www.slp.org.in","wp_plugins_url":"https:\/\/www.slp.org.in\/wp-content\/plugins","wp_content_url":"https:\/\/www.slp.org.in\/wp-content","wp_includes_url":"https:\/\/www.slp.org.in\/wp-includes\/","ngg_param_slug":"nggallery","rest_nonce":"40a9f4a13e"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/plugins/nextgen-gallery/static/Legacy/ajax.min.js?ver=3.59.6' id='photocrati_ajax-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=7.1' id='vc_woocommerce-add-to-cart-js-js'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/themes/seowave/js/html5/respond.min.js?ver=6.3.5' id='respond-min-js'></script>
+<![endif]-->
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/themes/seowave/vendors/counterup/jquery.counterup.min.js?ver=6.3.5' id='counterup-min-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/themes/seowave/vendors/waypoints/waypoints.min.js?ver=6.3.5' id='waypoints-min-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/themes/seowave/vendors/isotope/isotope-custom.js?ver=6.3.5' id='isotope-custom-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/themes/seowave/js/bootstrap.min.js?ver=6.3.5' id='bootstrap-min-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/themes/seowave/vendors/owl.carousel/js/owl.carousel.min.js?ver=6.3.5' id='owlcarousel-min-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/themes/seowave/vendors/flexslider/jquery.flexslider-min.js?ver=6.3.5' id='flexslider-min-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/themes/seowave/js/theme.js?ver=6.3.5' id='seowave-theme-js'></script>
+<script></script><link rel="https://api.w.org/" href="https://www.slp.org.in/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.slp.org.in/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.3.5" />
+<meta name="generator" content="WooCommerce 8.6.1" />
+<meta name="generator" content="Redux 4.5.0" /><style id="bellows-custom-generated-css">
+/** Bellows Custom Menu Styles (Customizer) **/
+/* main */
+.bellows.bellows-main { width:400px; }
+.bellows.bellows-main, .bellows.bellows-main .bellows-menu-item, .bellows.bellows-main .bellows-menu-item .bellows-target { font-family:"Montserrat",sans-serif;; }
+
+
+/* Status: Loaded from Transient */
+
+</style>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<meta name="generator" content="Powered by Slider Revolution 5.4.6.3.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://www.slp.org.in/wp-content/uploads/2017/12/cropped-logo-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.slp.org.in/wp-content/uploads/2017/12/cropped-logo-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.slp.org.in/wp-content/uploads/2017/12/cropped-logo-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.slp.org.in/wp-content/uploads/2017/12/cropped-logo-270x270.png" />
+<script type="text/javascript">function setREVStartSize(e){
+				try{ var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;					
+					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+				}catch(d){console.log("Failure at Presize of Slider:"+d)}
+			};</script>
+		<style type="text/css" id="wp-custom-css">
+			
+
+
+
+.offer_service .nav li{
+
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif !important;
+color: #000000 !important;
+}
+
+.successive_process .successive_process_inner .process {
+	 font-family: "Helvetica Neue",Helvetica,Arial,sans-serif !important;
+color: #000000 !important;
+	
+}
+
+.successive_process {
+    border-bottom: none !important;
+	
+}
+
+.news-container ul {
+    list-style-type: none !important;
+	
+}
+
+.news-container{
+	color: #ffffff !important;
+	
+	
+}
+
+div#news-container_1437 {
+    color: white !important;
+}
+
+.page-title h3 {
+    font-weight: 600 !important;
+	}
+
+hr {
+  
+    background-color: rgb(0, 51, 102) !important;
+   
+    height: 1px !important;
+    color: blue !important;
+    
+}
+
+
+.vc_general.vc_cta3.vc_cta3-color-sky.vc_cta3-style-3d {
+    box-shadow: 0 5px 0 #003366 !important;
+    color: #dce9f5 !important;
+    border-color: transparent !important;
+    background-color: #003366 !important;
+}
+
+.vc_btn3.vc_btn3-color-white, .vc_btn3.vc_btn3-color-white.vc_btn3-style-flat {
+    color: #003366 !important;
+    background-color: #99CC99 !important;
+}
+
+
+.vc_btn3.vc_btn3-color-white, .vc_btn3.vc_btn3-color-white.vc_btn3-style-flat {
+    color: #fffafa !important;
+    background-color: #003366 !important;
+}
+
+
+.site-main.section-100px {
+    padding: 50px 0 !important;
+}
+
+p.ngg-album-gallery-image-counter {
+    display: none !important;
+}
+
+.ngg-album-compact h4 .ngg-album-desc{
+	
+	text-align:center !important;
+}
+
+.contact-form .wpcf7-form input[type="submit"] {
+	background-color: #003366 !important;}
+
+
+.title_row h5 span {
+
+    color: #003366 !important;
+   
+}
+
+.vc_icon_element.vc_icon_element-outer .vc_icon_element-inner.vc_icon_element-color-blue .vc_icon_element-icon {
+   
+    display: none !important;
+}
+
+
+.contact-form .wpcf7-form .wpcf7-textarea{
+background-color: #ffffff !important;
+	
+}
+
+
+
+.title_row h5{	
+
+font-family: "Helvetica Neue",Helvetica,Arial,sans-serif !important;
+    color: #000000 !important;
+	line-height: 20px !important;
+font-size: 15px !important;
+letter-spacing: 0.5px !important;
+
+
+}
+
+.offer_service p {
+	
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif !important;
+    color: #000000 !important;
+	line-height: 20px !important;
+font-size: 15px !important;
+letter-spacing: 0.5px !important;
+
+
+}
+
+.footer_widgets .textwidget{
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif !important;
+   
+font-size: 15px !important;
+
+}
+
+
+.icoasl-2019-template-default .site-main .sidebar-right{
+    float: left !important;
+    clear: left !important;
+
+}
+
+
+.icoasl-2019-template-default .site-main .content-left{
+    float: right !important;
+    clear: right !important;
+}
+
+
+.bellows.bellows-skin-blue-material .bellows-nav .bellows-item-level-0 > .bellows-target {
+    background: #003366 !important;
+}
+
+
+.wpb-js-composer .vc_tta.vc_general .vc_tta-title-text:not(:empty):not(:first-child){
+
+    margin-left: 6px !important;
+    margin-right: 6px !important;
+}
+
+.wpb-js-composer .vc_tta.vc_general .vc_tta-tab>a {
+    padding: 21px 0px !important;}
+
+.wpb-js-composer .vc_tta.vc_general .vc_tta-icon {
+   
+    margin-left: 2px !important;
+}
+
+.wpb-js-composer .vc_tta-color-sky.vc_tta-style-classic .vc_tta-tab.vc_active>a {
+    border-color: #f0f0f0;
+    background-color: #f8f8f8;
+    color: #666;
+    padding: 10px !important;
+    font-size: 15px;
+    margin: 0px !important;
+    font-weight: 800;
+}
+
+.wpb-js-composer .vc_tta-color-sky.vc_tta-style-classic .vc_tta-tab>a {
+   
+    border-color: #4d9ae1;
+    background-color: #5AA1E3;
+    color: #fff;
+    padding: 10px !important;
+    font-size: 15px;
+    margin: 0px !important;
+    font-weight: 800;
+}
+
+.bellows.bellows-skin-blue-material .bellows-nav .bellows-submenu .bellows-current-menu-item > .bellows-target {
+    background: #fff !important;
+}
+
+.bellows.bellows-skin-blue-material .bellows-nav .bellows-submenu .bellows-target {
+    color: #036 !important;
+    border-bottom: 1px solid #036 !important;
+}
+
+
+
+.bellows.bellows-skin-blue-material .bellows-nav .bellows-submenu {
+    background: #9BD7FF !important;
+}
+
+.bellows.bellows-skin-blue-material .bellows-nav .bellows-submenu .bellows-target:hover {
+    background: #fff !important;
+    color: #444;
+}
+
+@media (max-width:768px)
+{
+.vc_tta-title-text {
+    font-size: 11px !important;
+	font-weight:800 !important;
+}
+}
+
+
+.widget-area .widget-title::after {
+	background: #003366 none repeat scroll 0 0 !important;}
+
+
+
+
+
+
+
+
+
+		</style>
+		<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+<body class="error404 theme-seowave woocommerce-no-js default wpb-js-composer js-comp-ver-7.1 vc_responsive">
+	<header class="row header-main container-fluid no-padding">
+		<div class="top_row container-fluid no-padding">
+			<div class="container">
+								<div class="col-sm-6 col-xs-12">
+					<ul class="nav navbar-right">
+						<li>
+																	<a href="" title="Login / Register">Login / Register</a>
+																</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		
+		<!--Top Row-->
+		<div class="logo_row container-fluid">
+			<div class="container">
+				<div class="logo-block">
+					<div class="col-sm-6"> 
+														<a class="logo" href="https://www.slp.org.in/"><img src="https://www.slp.org.in/wp-content/uploads/2017/12/logo.png" alt="" /></a>
+						<h2 style="float:right;">Society for Library Professionals</h2>
+													</div>
+					<div class="col-sm-6">
+						<ul class="nav">
+															<li>
+									<a href="#">
+										<span class="icon phone"></span>
+										<span class="first-word">Call</span>: +91 9899110787 or +91 9811392242									</a>
+								</li>
+																<li>
+									<a href="/cdn-cgi/l/email-protection#b2c1dec29cdedbd0f2d5dfd3dbde9cd1dddf">
+										<span class="icon email"></span>
+										<span class="first-word">Email</span>: <span class="__cf_email__" data-cfemail="31425d411f5d585371565c50585d1f525e5c">[email&#160;protected]</span>									</a>
+								</li>
+														</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<!--Logo Row-->
+		<nav class="menu_row">
+			<div class="container">
+				<div class="row">
+									<!--Remove Search And Analysis-->
+					<div class="menu_area col-md-12 no-padding">
+						<button class="btn btn-primary visible-xs" type="button" data-toggle="collapse" data-target="#mainMenu" aria-expanded="false" aria-controls="mainMenu"> 
+							<i class="glyphicon glyphicon-th-large"></i> 
+							 Menu						</button>
+						<div class="collapse navbar-collapse no-left-padding" id="mainMenu">
+							<ul id="menu-navigation" class="nav navbar-nav"><li id="menu-item-502" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-502"><a title="Home" href="https://www.slp.org.in/">Home</a></li>
+<li id="menu-item-501" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-501"><a title="About" href="https://www.slp.org.in/about-slp/">About</a></li>
+<li id="menu-item-500" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-500"><a title="Events" href="https://www.slp.org.in/events/">Events</a></li>
+<li id="menu-item-499" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-499"><a title="Publications" href="https://www.slp.org.in/publications/">Publications</a></li>
+<li id="menu-item-498" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-498"><a title="Education" href="https://www.slp.org.in/education-training/">Education</a></li>
+<li id="menu-item-497" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-497"><a title="Travel Grant" href="https://www.slp.org.in/travel-grant/">Travel Grant</a></li>
+<li id="menu-item-496" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-496"><a title="Career" href="https://www.slp.org.in/career/">Career</a></li>
+<li id="menu-item-495" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-495"><a title="Gallery" href="https://www.slp.org.in/photo-gallery/">Gallery</a></li>
+<li id="menu-item-494" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-494"><a title="Members" href="https://www.slp.org.in/society-members/">Members</a></li>
+<li id="menu-item-493" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-493"><a title="Awards" href="https://www.slp.org.in/slp-awards/">Awards</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a title="Contact" href="https://www.slp.org.in/contact/">Contact</a></li>
+</ul>						</div>
+					</div>
+				<!--Menu Area--> 
+				</div>
+			</div>
+		</nav>
+	<!--Menu Row--> 
+	</header>
+				<div class="page-banner" style="background-image: url(https://www.slp.org.in/wp-content/themes/seowave/images/page-cover.jpg);">
+				<div class="page-heading">
+					<div class="container">
+						<div class="page-title pull-left no-padding">
+							<h3>
+								Error Page							</h3>
+						</div>
+											</div>
+				</div>
+			</div>
+			
+			
+<main id="main" class="site-main section-100px">
+
+	<div class="page-content notfound_template">
+
+		<div id="error-page-section" class="error-page-section">
+
+			<div class="container">
+				<div class="page_404">
+					<div class="col-md-6 col-sm-6 error-content">
+						<img src="https://www.slp.org.in/wp-content/themes/seowave/images/404/1.png" alt="1.png"/>
+						<div class="widget_search-inner">
+						</div>
+					</div>
+					
+					<div class="col-md-6 col-sm-6 text-center">
+						<img src="https://www.slp.org.in/wp-content/themes/seowave/images/404/2.png" alt="2.png"/>
+						<h2>Sorry! the page not found</h2>
+						<p>The Link You Folowed Probably Broken, or the page has been removed.</p>
+						<a class="return_home borderred_link" href="https://www.slp.org.in/"><span>Return to home</span></a>
+					</div>
+					
+				</div>
+
+			</div>
+
+		</div>
+
+	</div><!-- Page Content /- -->
+
+</main><!-- .site-main -->
+
+	<footer class="row">
+		<div class="m0 top_footer">
+			<div class="container">
+				<div class="row footer_widgets">
+											<div class="col-sm-4 footer_widget">
+							<aside id="text-2" class="widget widget_text"><h4>About SLP</h4><hr>			<div class="textwidget"><p style="color:white;">Our organization is unique in bringing together the worlds of reflective practice and thoughtful scholarship in the field of Librarianship.</p>
+</div>
+		</aside><aside id="text-5" class="widget widget_text"><h4>Follow Us</h4><hr>			<div class="textwidget"><ul class="zoom-social-icons-list zoom-social-icons-list--with-canvas zoom-social-icons-list--rounded" style="float:left !important; margin:0px 10px 0px 0px;">
+<li class="zoom-social_icons-list__item" style="float:left !important; margin:0px 10px 0px 0px;"><a class="zoom-social_icons-list__link" href="https://www.facebook.com/pages/Society-for-Library-Professionals/276244885740662" rel="nofollow"><span class="zoom-social_icons-list-span socicon socicon-facebook" data-hover-rule="background-color" data-hover-color="#3b5998" style="background-color : #3b5998; font-size: 18px; padding:8px" data-old-color="rgb(59, 89, 152)"></span></a></li>
+<li class="zoom-social_icons-list__item" style="float:left !important; margin:0px 10px 0px 0px;"><a class="zoom-social_icons-list__link" href="https://twitter.com/slp_lib" rel="nofollow"><span class="zoom-social_icons-list-span socicon socicon-twitter" data-hover-rule="background-color" data-hover-color="#55acee" style="background-color : #55acee; font-size: 18px; padding:8px" data-old-color="rgb(85, 172, 238)"></span></a></li>
+<li class="zoom-social_icons-list__item" style="float:left !important; margin:0px 10px 0px 0px;"><a class="zoom-social_icons-list__link" href="https://vimeo.com/" rel="nofollow"><span class="zoom-social_icons-list-span socicon socicon-vimeo" data-hover-rule="background-color" data-hover-color="#51b5e7" style="background-color : #51b5e7; font-size: 18px; padding:8px"></span></a></li>
+<li class="zoom-social_icons-list__item" style="float:left !important; margin:0px 10px 0px 0px;"><a class="zoom-social_icons-list__link" href="https://www.youtube.com/user/slpsociety?feature=mhee" rel="nofollow"><span class="zoom-social_icons-list-span socicon socicon-youtube" data-hover-rule="background-color" data-hover-color="#e02a20" style="background-color : #e02a20; font-size: 18px; padding:8px"></span></a></li>
+</ul>
+</div>
+		</aside>						</div>
+												<div class="col-sm-4 footer_widget">
+							<aside id="media_gallery-2" class="widget widget_media_gallery"><h4>Photo Gallery</h4><hr><div id='gallery-1' class='gallery galleryid-0 gallery-columns-3 gallery-size-thumbnail'><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://www.slp.org.in/wp-content/uploads/2017/12/DSC02100.jpg'><img width="150" height="150" src="https://www.slp.org.in/wp-content/uploads/2017/12/DSC02100-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" srcset="https://www.slp.org.in/wp-content/uploads/2017/12/DSC02100-150x150.jpg 150w, https://www.slp.org.in/wp-content/uploads/2017/12/DSC02100-100x100.jpg 100w, https://www.slp.org.in/wp-content/uploads/2017/12/DSC02100-105x105.jpg 105w, https://www.slp.org.in/wp-content/uploads/2017/12/DSC02100-26x26.jpg 26w, https://www.slp.org.in/wp-content/uploads/2017/12/DSC02100-78x78.jpg 78w, https://www.slp.org.in/wp-content/uploads/2017/12/DSC02100-27x27.jpg 27w, https://www.slp.org.in/wp-content/uploads/2017/12/DSC02100-64x64.jpg 64w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://www.slp.org.in/wp-content/uploads/2017/12/DSC01906.jpg'><img width="150" height="150" src="https://www.slp.org.in/wp-content/uploads/2017/12/DSC01906-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" srcset="https://www.slp.org.in/wp-content/uploads/2017/12/DSC01906-150x150.jpg 150w, https://www.slp.org.in/wp-content/uploads/2017/12/DSC01906-100x100.jpg 100w, https://www.slp.org.in/wp-content/uploads/2017/12/DSC01906-105x105.jpg 105w, https://www.slp.org.in/wp-content/uploads/2017/12/DSC01906-26x26.jpg 26w, https://www.slp.org.in/wp-content/uploads/2017/12/DSC01906-78x78.jpg 78w, https://www.slp.org.in/wp-content/uploads/2017/12/DSC01906-27x27.jpg 27w, https://www.slp.org.in/wp-content/uploads/2017/12/DSC01906-64x64.jpg 64w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://www.slp.org.in/wp-content/uploads/2017/12/DSC01907.jpg'><img width="150" height="150" src="https://www.slp.org.in/wp-content/uploads/2017/12/DSC01907-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" srcset="https://www.slp.org.in/wp-content/uploads/2017/12/DSC01907-150x150.jpg 150w, https://www.slp.org.in/wp-content/uploads/2017/12/DSC01907-100x100.jpg 100w, https://www.slp.org.in/wp-content/uploads/2017/12/DSC01907-105x105.jpg 105w, https://www.slp.org.in/wp-content/uploads/2017/12/DSC01907-26x26.jpg 26w, https://www.slp.org.in/wp-content/uploads/2017/12/DSC01907-78x78.jpg 78w, https://www.slp.org.in/wp-content/uploads/2017/12/DSC01907-27x27.jpg 27w, https://www.slp.org.in/wp-content/uploads/2017/12/DSC01907-64x64.jpg 64w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://www.slp.org.in/wp-content/uploads/2017/12/DSC02064.jpg'><img width="150" height="150" src="https://www.slp.org.in/wp-content/uploads/2017/12/DSC02064-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" srcset="https://www.slp.org.in/wp-content/uploads/2017/12/DSC02064-150x150.jpg 150w, https://www.slp.org.in/wp-content/uploads/2017/12/DSC02064-100x100.jpg 100w, https://www.slp.org.in/wp-content/uploads/2017/12/DSC02064-105x105.jpg 105w, https://www.slp.org.in/wp-content/uploads/2017/12/DSC02064-26x26.jpg 26w, https://www.slp.org.in/wp-content/uploads/2017/12/DSC02064-78x78.jpg 78w, https://www.slp.org.in/wp-content/uploads/2017/12/DSC02064-27x27.jpg 27w, https://www.slp.org.in/wp-content/uploads/2017/12/DSC02064-64x64.jpg 64w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://www.slp.org.in/wp-content/uploads/2017/12/DSC01956.jpg'><img width="150" height="150" src="https://www.slp.org.in/wp-content/uploads/2017/12/DSC01956-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" srcset="https://www.slp.org.in/wp-content/uploads/2017/12/DSC01956-150x150.jpg 150w, https://www.slp.org.in/wp-content/uploads/2017/12/DSC01956-100x100.jpg 100w, https://www.slp.org.in/wp-content/uploads/2017/12/DSC01956-105x105.jpg 105w, https://www.slp.org.in/wp-content/uploads/2017/12/DSC01956-26x26.jpg 26w, https://www.slp.org.in/wp-content/uploads/2017/12/DSC01956-78x78.jpg 78w, https://www.slp.org.in/wp-content/uploads/2017/12/DSC01956-27x27.jpg 27w, https://www.slp.org.in/wp-content/uploads/2017/12/DSC01956-64x64.jpg 64w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon portrait'>
+				<a href='https://www.slp.org.in/wp-content/uploads/2017/12/DSC02230.jpg'><img width="150" height="150" src="https://www.slp.org.in/wp-content/uploads/2017/12/DSC02230-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" srcset="https://www.slp.org.in/wp-content/uploads/2017/12/DSC02230-150x150.jpg 150w, https://www.slp.org.in/wp-content/uploads/2017/12/DSC02230-100x100.jpg 100w, https://www.slp.org.in/wp-content/uploads/2017/12/DSC02230-105x105.jpg 105w, https://www.slp.org.in/wp-content/uploads/2017/12/DSC02230-26x26.jpg 26w, https://www.slp.org.in/wp-content/uploads/2017/12/DSC02230-78x78.jpg 78w, https://www.slp.org.in/wp-content/uploads/2017/12/DSC02230-27x27.jpg 27w, https://www.slp.org.in/wp-content/uploads/2017/12/DSC02230-64x64.jpg 64w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+			</div></figure>
+		</div>
+</aside>						</div>
+												<div class="col-sm-4 footer_widget">
+							<aside id="text-4" class="widget widget_text"><h4>Important Link</h4><hr>			<div class="textwidget"><p><a style="color: #ffffff;" href="https://www.slp.org.in/events/">Events</a><br />
+<a style="color: #ffffff;" href="https://www.slp.org.in/publications/">Publications</a><br />
+<a style="color: #ffffff;" href="https://www.slp.org.in/education-training/">Education</a><br />
+<a style="color: #ffffff;" href="https://www.slp.org.in/travel-grant/">Travel Grant</a><br />
+<a style="color: #ffffff;" href="https://www.slp.org.in/career/">Career</a><br /><a style="color: #ffffff;" href="https://www.slp.org.in/photo-gallery/">Gallery</a><br /><a style="color: #ffffff;" href="https://www.slp.org.in/society-members/">Members</a><br /><a style="color: #ffffff;" href="https://www.slp.org.in/slp-awards/">Slp Awards</a></p>
+</div>
+		</aside>						</div>
+						
+				</div>
+				
+				<div class="row footer_widgets2 m0">
+					<ul class="nav nav-justified">
+													<li><p><img src="https://www.slp.org.in/wp-content/themes/seowave/images/icons/footer/call-image.png" alt=""><strong>Call: </strong>+91 9899110787 or +91 9811392242</p></li>
+														<li><a href="slp.lib@gmail.com"> <img src="https://www.slp.org.in/wp-content/themes/seowave/images/icons/footer/filled-message.png" alt=""><strong>Email: </strong><span class="__cf_email__" data-cfemail="d1a2bda1ffbdb8b391b6bcb0b8bdffb2bebc">[email&#160;protected]</span></a></li>
+												</ul>
+				</div>
+				
+			</div>
+		</div>
+		<div class="row copyright m0"><p style="color: white;">Copyright © 2019 The Society for Library Professionals</p>
+</div>
+	</footer>
+		<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type='text/javascript'>
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<link rel='stylesheet' id='simple-blog-card-css' href='https://www.slp.org.in/wp-content/plugins/simple-blog-card/css/simpleblogcard.css?ver=1.00' type='text/css' media='all' />
+<style id='simple-blog-card-inline-css' type='text/css'>
+.simpleblogcard_wrap { border: 1px solid #ddd; word-wrap: break-word; max-width: 100%; border-radius: 5px; margin: 30px; } .simpleblogcard_inner { line-height: 120%; padding: 10px; } .simpleblogcard_border { padding: 0.25em 0.25em; color: #494949; background: transparent; } .simpleblogcard_title { font-weight: bold; display: block; } .simpleblogcard_description { color: #333; }
+</style>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9.2' id='swv-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.slp.org.in\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.9.2' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/plugins/press-release-distribution/assets/js/prwirepro_main.js?ver=1.1' id='prwirepro_main-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=8.6.1' id='sourcebuster-js-js'></script>
+<script type='text/javascript' id='wc-order-attribution-js-extra'>
+/* <![CDATA[ */
+var wc_order_attribution = {"params":{"lifetime":1.0000000000000000818030539140313095458623138256371021270751953125e-5,"session":30,"ajaxurl":"https:\/\/www.slp.org.in\/wp-admin\/admin-ajax.php","prefix":"wc_order_attribution_","allowTracking":true},"fields":{"source_type":"current.typ","referrer":"current_add.rf","utm_campaign":"current.cmp","utm_source":"current.src","utm_medium":"current.mdm","utm_content":"current.cnt","utm_id":"current.id","utm_term":"current.trm","session_entry":"current_add.ep","session_start_time":"current_add.fd","session_pages":"session.pgs","session_count":"udata.vst","user_agent":"udata.uag"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=8.6.1' id='wc-order-attribution-js'></script>
+<script type='text/javascript' id='ngg_common-js-extra'>
+/* <![CDATA[ */
+
+var nextgen_lightbox_settings = {"static_path":"https:\/\/www.slp.org.in\/wp-content\/plugins\/nextgen-gallery\/static\/Lightbox\/{placeholder}","context":"all_images"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/plugins/nextgen-gallery/static/GalleryDisplay/common.js?ver=3.59.6' id='ngg_common-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/plugins/nextgen-gallery/static/Lightbox/lightbox_context.js?ver=3.59.6' id='ngg_lightbox_context-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/plugins/nextgen-gallery/static/Lightbox/fancybox/jquery.easing-1.3.pack.js?ver=3.59.6' id='fancybox-0-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/plugins/nextgen-gallery/static/Lightbox/fancybox/jquery.fancybox-1.3.4.pack.js?ver=3.59.6' id='fancybox-1-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/plugins/nextgen-gallery/static/Lightbox/fancybox/nextgen_fancybox_init.js?ver=3.59.6' id='fancybox-2-js'></script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/plugins/social-icons-widget-by-wpzoom/assets/js/social-icons-widget-frontend.js?ver=1731659449' id='zoom-social-icons-widget-frontend-js'></script>
+<script type='text/javascript' id='bellows-js-extra'>
+/* <![CDATA[ */
+var bellows_data = {"config":{"main":{"folding":"multiple","current":"on","slide_speed":400}},"v":"1.4.3"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.slp.org.in/wp-content/plugins/bellows-accordion-menu/assets/js/bellows.min.js?ver=1.4.3' id='bellows-js'></script>
+<script></script></body>
+</html>

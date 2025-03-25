@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COLLNET 2025 Website Test</title>
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+        .test-success {
+            color: #198754;
+        }
+
+        .test-warning {
+            color: #ffc107;
+        }
+
+        .test-danger {
+            color: #dc3545;
+        }
+
+        .test-item {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container py-5">
+        <h1 class="mb-4">COLLNET 2025 Website Test</h1>
+
+        <div class="mb-4">
+            <button id="runTests" class="btn btn-primary">Run Tests</button>
+            <button id="clearResults" class="btn btn-secondary ms-2">Clear Results</button>
+        </div>
+
+        <div class="card border-0 shadow">
+            <div class="card-body">
+                <h5 class="card-title">Test Results</h5>
+                <div id="testResults" class="mt-3">
+                    <!-- Test results will be displayed here -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const testResultsDiv = document.getElementById('testResults');
+            const runTestsBtn = document.getElementById('runTests');
+            const clearResultsBtn = document.getElementById('clearResults');
+
+            // List of pages to test
+            const pagesToTest = [
+                { name: 'Home', path: 'index.html' },
+                { name: 'About', path: 'pages/about.html' },
+                { name: 'Call for Papers', path: 'pages/call-for-papers.html' }
+                // Add more pages as you create them
+            ];
+
+            // Function to check if a page exists
+            async function checkPageExists(page) {
+                try {
+                    const response = await fetch(page.path);
+                    return {
+                        page: page,
+                        exists: response.ok,
+                        status: response.status
+                    };
+                } catch (error) {
+                    return {
+                        page: page,
+                        exists: false,
+                        error: error.message
+                    };
+                }
+            }
+
+            // Function to check for broken internal links on a page
+            async function checkPageLinks(pagePath) {
+                try {
+                    const response = await fetch(pagePath);
+                    const html = await response.text();
+
+                    // Create a temporary document to parse the HTML
+                    const parser = new DOMParser();
+                    const doc = parser.parseFromString(html, 'text/html');
+
+                    // Get all links
+                    const links = Array.from(doc.querySelectorAll('a[href]'))
+                        .map(link => link.getAttribute('href'))
+                        .filter(href => !href.startsWith('http') && !href.startsWith('mailto:') && !href === '#')
+                        .map(href => {
+                            if (href.startsWith('/')) {
+                                // If it's a root-relative link, use the current origin
+                                return window.location.origin + href;
+                            } else if (href.startsWith('./')) {
+                                // Remove ./ for simplicity
+                                return href.substring(2);
+                            } else if (href.startsWith('../')) {
+                                // Handle parent directory references
+                                const pagePathParts = pagePath.split('/');
+                                pagePathParts.pop(); // Remove the file part
+                                const hrefParts = href.split('/');
+                                hrefParts.shift(); // Remove the '../' part
+                                return pagePathParts.slice(0, -1).concat(hrefParts).join('/');
+                            } else if (!href.includes('/')) {
+                                // If it's a file in the same directory
+                                const pagePathDir = pagePath.substring(0, pagePath.lastIndexOf('/') + 1);
+                                return pagePathDir + href;
+                            }
+                            return href;
+                        });
+
+                    return {
+                        page: pagePath,
+                        links: links
+                    };
+                } catch (error) {
+                    return {
+                        page: pagePath,
+                        error: error.message
+                    };
+                }
+            }
+
+            // Function to run all tests
+            async function runTests() {
+                testResultsDiv.innerHTML = `<p>Running tests...</p>`;
+
+                // Step 1: Check if pages exist
+                testResultsDiv.innerHTML += `<h6 class="mt-3">Checking Pages:</h6>`;
+
+                for (const page of pagesToTest) {
+                    const result = await checkPageExists(page);
+
+                    if (result.exists) {
+                        testResultsDiv.innerHTML += `
+                            <div class="test-item">
+                                <i class="bi bi-check-circle-fill test-success"></i>
+                                <span class="test-success">✓</span> 
+                                ${page.name} (${page.path}): Available
+                            </div>`;
+                    } else {
+                        testResultsDiv.innerHTML += `
+                            <div class="test-item">
+                                <span class="test-danger">✗</span> 
+                                ${page.name} (${page.path}): Not found - ${result.status || result.error}
+                            </div>`;
+                    }
+                }
+
+                // Step 2: Check for missing CSS/JS
+                testResultsDiv.innerHTML += `<h6 class="mt-3">Checking Resources:</h6>`;
+
+                const resources = [
+                    { name: 'Main CSS', path: 'css/styles.css' },
+                    { name: 'Main JavaScript', path: 'js/main.js' }
+                ];
+
+                for (const resource of resources) {
+                    const result = await checkPageExists(resource);
+
+                    if (result.exists) {
+                        testResultsDiv.innerHTML += `
+                            <div class="test-item">
+                                <span class="test-success">✓</span> 
+                                ${resource.name} (${resource.path}): Available
+                            </div>`;
+                    } else {
+                        testResultsDiv.innerHTML += `
+                            <div class="test-item">
+                                <span class="test-danger">✗</span> 
+                                ${resource.name} (${resource.path}): Not found - ${result.status || result.error}
+                            </div>`;
+                    }
+                }
+
+                // Add a summary
+                testResultsDiv.innerHTML += `
+                    <div class="alert alert-info mt-3">
+                        <strong>Note:</strong> This is a basic test. For comprehensive validation, use tools like W3C HTML Validator, Lighthouse, or manual browser testing on different devices.
+                    </div>`;
+            }
+
+            // Event listeners
+            runTestsBtn.addEventListener('click', runTests);
+
+            clearResultsBtn.addEventListener('click', function () {
+                testResultsDiv.innerHTML = '';
+            });
+        });
+    </script>
+</body>
+
+</html>

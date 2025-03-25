@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COLLNET 2025: Advancing Research in Webometrics, Informetrics & Scientometrics</title>
+    <meta name="description"
+        content="19th International Conference on Webometrics, Informetrics & Scientometrics (WIS) and the 24th COLLNET Meeting">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <!-- Google Fonts -->
+    <link
+        href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Playfair+Display:wght@400;600;700&display=swap"
+        rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top shadow-sm">
+        <div class="container">
+            <a class="navbar-brand" href="index.html">
+                <strong>COLLNET</strong> <span class="text-primary">2025</span>
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="pages/about.html">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="pages/call-for-papers.html">Call for Papers</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="pages/program.html">Program</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="pages/registration.html">Registration</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="pages/venue.html">Venue & Travel</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="pages/committee.html">Committee</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="pages/contact.html">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content Area -->
+    <main>
+        <!-- Hero Section -->
+        <section id="hero" class="py-5 text-center">
+            <div class="container">
+                <h1 class="display-4 fw-bold mb-4">COLLNET 2025</h1>
+                <h2 class="h3 mb-4">Advancing Research in Webometrics, Informetrics & Scientometrics</h2>
+                <p class="lead mb-4">
+                    Welcome to the 19th International Conference on Webometrics, Informetrics & Scientometrics (WIS)
+                    and the 24th COLLNET Meeting. This global conference brings together researchers, scientists,
+                    information professionals, and policymakers to discuss the latest developments in scientific
+                    collaboration, research evaluation, and information science.
+                </p>
+
+                <!-- Event Details Badges -->
+                <div class="d-flex flex-wrap justify-content-center gap-3 mb-4">
+                    <div class="badge bg-light text-dark p-3 fs-6">
+                        <i class="far fa-calendar-alt me-2"></i> September 19-21, 2025
+                    </div>
+                    <div class="badge bg-light text-dark p-3 fs-6">
+                        <i class="fas fa-map-marker-alt me-2"></i> Institute of Economic Growth, Delhi, India
+                    </div>
+                    <div class="badge bg-light text-dark p-3 fs-6">
+                        <i class="fas fa-globe me-2"></i> Hybrid (In-Person & Virtual)
+                    </div>
+                </div>
+
+                <!-- CTA Buttons -->
+                <div class="mt-4">
+                    <a href="pages/registration.html" class="btn btn-light btn-lg me-2 mb-2">
+                        <i class="fas fa-user-plus me-2"></i> Register Now
+                    </a>
+                    <a href="pages/call-for-papers.html" class="btn btn-outline-light btn-lg mb-2">
+                        <i class="far fa-file-alt me-2"></i> Call for Papers
+                    </a>
+                </div>
+
+                <!-- Countdown Timer -->
+                <div id="countdown" class="mt-5">
+                    <h3 class="h5 mb-3">Conference Starts In</h3>
+                    <div class="countdown-container">
+                        <div class="countdown-item">
+                            <span id="countdown-days" class="countdown-number">00</span>
+                            <span class="countdown-label">Days</span>
+                        </div>
+                        <div class="countdown-item">
+                            <span id="countdown-hours" class="countdown-number">00</span>
+                            <span class="countdown-label">Hours</span>
+                        </div>
+                        <div class="countdown-item">
+                            <span id="countdown-minutes" class="countdown-number">00</span>
+                            <span class="countdown-label">Minutes</span>
+                        </div>
+                        <div class="countdown-item">
+                            <span id="countdown-seconds" class="countdown-number">00</span>
+                            <span class="countdown-label">Seconds</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Glimpses of COLLNET - Photo Carousel -->
+        <section id="glimpses" class="py-5 bg-light">
+            <div class="container">
+                <h2 class="section-title">Glimpses of COLLNET</h2>
+
+                <div id="collnetCarousel" class="carousel slide" data-bs-ride="carousel">
+                    <div class="carousel-indicators">
+                        <button type="button" data-bs-target="#collnetCarousel" data-bs-slide-to="0" class="active"
+                            aria-current="true" aria-label="Slide 1"></button>
+                        <button type="button" data-bs-target="#collnetCarousel" data-bs-slide-to="1"
+                            aria-label="Slide 2"></button>
+                        <button type="button" data-bs-target="#collnetCarousel" data-bs-slide-to="2"
+                            aria-label="Slide 3"></button>
+                        <button type="button" data-bs-target="#collnetCarousel" data-bs-slide-to="3"
+                            aria-label="Slide 4"></button>
+                        <button type="button" data-bs-target="#collnetCarousel" data-bs-slide-to="4"
+                            aria-label="Slide 5"></button>
+                        <button type="button" data-bs-target="#collnetCarousel" data-bs-slide-to="5"
+                            aria-label="Slide 6"></button>
+                    </div>
+                    <div class="carousel-inner rounded shadow">
+                        <div class="carousel-item active">
+                            <img src="images/gallery/WhatsApp Image 2025-03-24 at 17.24.58.jpeg" class="d-block w-100"
+                                alt="COLLNET Conference 2025">
+                            <div class="carousel-caption d-none d-md-block">
+                                <h5>COLLNET 2025, Delhi</h5>
+                                <p>19th International Conference on Webometrics, Informetrics & Scientometrics</p>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="images/gallery/WhatsApp Image 2025-03-24 at 17.25.23.jpeg" class="d-block w-100"
+                                alt="COLLNET Conference">
+                            <div class="carousel-caption d-none d-md-block">
+                                <h5>COLLNET 2024, Strasbourg</h5>
+                                <p>18th International Conference on Webometrics, Informetrics & Scientometrics</p>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="images/gallery/WhatsApp Image 2025-03-24 at 17.24.13.jpeg" class="d-block w-100"
+                                alt="COLLNET Conference">
+                            <div class="carousel-caption d-none d-md-block">
+                                <h5>COLLNET 2023, Dhaka</h5>
+                                <p>17th International Conference on Webometrics, Informetrics & Scientometrics</p>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="images/gallery/WhatsApp Image 2025-03-24 at 17.20.47.jpeg" class="d-block w-100"
+                                alt="COLLNET Conference">
+                            <div class="carousel-caption d-none d-md-block">
+                                <h5>COLLNET 2022, Bangkok</h5>
+                                <p>16th International Conference on Webometrics, Informetrics & Scientometrics</p>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="images/gallery/WhatsApp Image 2025-03-24 at 17.20.47 (1).jpeg"
+                                class="d-block w-100" alt="COLLNET Conference">
+                            <div class="carousel-caption d-none d-md-block">
+                                <h5>COLLNET 2019, Dalian</h5>
+                                <p>15th International Conference on Webometrics, Informetrics & Scientometrics</p>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="images/gallery/WhatsApp Image 2025-03-24 at 17.20.47 (2).jpeg"
+                                class="d-block w-100" alt="COLLNET Conference">
+                            <div class="carousel-caption d-none d-md-block">
+                                <h5>COLLNET Through the Years</h5>
+                                <p>A global platform for research collaboration since 2000</p>
+                            </div>
+                        </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#collnetCarousel"
+                        data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#collnetCarousel"
+                        data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
+            </div>
+        </section>
+
+        <!-- Important Dates Section -->
+        <section id="dates" class="py-5">
+            <div class="container">
+                <h2 class="section-title">Important Dates</h2>
+
+                <div class="row justify-content-center">
+                    <div class="col-md-8">
+                        <div class="card border-0 shadow">
+                            <div class="card-body p-4">
+                                <div class="table-responsive">
+                                    <table class="table table-hover">
+                                        <tbody>
+                                            <tr>
+                                                <td><i class="fas fa-calendar-check text-primary me-2"></i> Extended
+                                                    Abstract Submission</td>
+                                                <td class="text-end fw-bold">June 15, 2025</td>
+                                            </tr>
+                                            <tr>
+                                                <td><i class="fas fa-envelope-open-text text-primary me-2"></i>
+                                                    Notification of Acceptance</td>
+                                                <td class="text-end fw-bold">July 8, 2025</td>
+                                            </tr>
+                                            <tr>
+                                                <td><i class="fas fa-file-alt text-primary me-2"></i> Full Paper
+                                                    Submission</td>
+                                                <td class="text-end fw-bold">July 27, 2025</td>
+                                            </tr>
+                                            <tr>
+                                                <td><i class="fas fa-user-check text-primary me-2"></i> Early Bird
+                                                    Registration</td>
+                                                <td class="text-end fw-bold">August 15, 2025</td>
+                                            </tr>
+                                            <tr>
+                                                <td><i class="fas fa-calendar-day text-primary me-2"></i> Conference
+                                                    Dates</td>
+                                                <td class="text-end fw-bold">September 19-21, 2025</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Conference Venue Section -->
+        <section id="venue-info" class="py-5 bg-light">
+            <div class="container">
+                <h2 class="section-title">Conference Venue</h2>
+
+                <div class="row align-items-center">
+                    <div class="col-lg-6 mb-4 mb-lg-0">
+                        <div class="card border-0 shadow h-100">
+                            <img src="images/ieg-building.jpg" class="card-img-top" alt="Institute of Economic Growth">
+                            <div class="card-body">
+                                <h5 class="card-title">Institute of Economic Growth</h5>
+                                <p class="card-text">University of Delhi Enclave<br>Delhi - 110007, India</p>
+                                <p class="card-text mb-0">
+                                    <i class="fas fa-envelope me-2 text-primary"></i>
+                                    <a href="mailto:collnet2025@gmail.com">collnet2025@gmail.com</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="card border-0 shadow">
+                            <div class="card-body p-0">
+                                <!-- Placeholder for Google Map - Will be replaced with actual map in production -->
+                                <iframe
+                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3500.023267633284!2d77.1946!3d28.6985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d0221ec3a69c7%3A0xb1c461da16fc08b4!2sInstitute%20of%20Economic%20Growth!5e0!3m2!1sen!2sin!4v1656567032270!5m2!1sen!2sin"
+                                    width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"
+                                    referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Meet the People Behind COLLNET 2025 -->
+        <section id="people" class="py-5">
+            <div class="container">
+                <h2 class="section-title">Meet the People Behind COLLNET 2025</h2>
+
+                <div class="row">
+                    <!-- Person 1 -->
+                    <div class="col-md-6 col-lg-3">
+                        <div class="person-card">
+                            <img src="images/committee/hildrun_kretschmer.jpg" alt="Hildrun Kretschmer"
+                                class="img-fluid rounded-circle mb-3"
+                                style="width: 150px; height: 150px; object-fit: cover;">
+                            <h5>Hildrun Kretschmer</h5>
+                            <p class="designation">COLLNET Founder and Coordinator</p>
+                            <p class="small">Honorary Professor, Henan Normal University, Xinxiang, China<br>
+                                PD, Dr. sc. phil., Dr. oec., Dipl.-psych.</p>
+                            <p class="small mb-0">
+                                <a href="mailto:kretschmer.h@onlinehome.de" class="text-primary">
+                                    <i class="fas fa-envelope me-1"></i> kretschmer.h@onlinehome.de
+                                </a>
+                            </p>
+                            <p class="small">
+                                <a href="http://www.h-kretschmer.de" target="_blank" class="text-primary">
+                                    <i class="fas fa-globe me-1"></i> www.h-kretschmer.de
+                                </a>
+                            </p>
+                        </div>
+                    </div>
+
+                    <!-- Person 2 -->
+                    <div class="col-md-6 col-lg-3">
+                        <div class="person-card">
+                            <img src="images/committee/bernd_markscheffel.jpg" alt="Dr. Bernd Markscheffel"
+                                class="img-fluid rounded-circle mb-3"
+                                style="width: 150px; height: 150px; object-fit: cover;">
+                            <h5>Dr. Bernd Markscheffel</h5>
+                            <p class="designation">General Chair, COLLNET 2024</p>
+                            <p class="small">Technische Universität Ilmenau, Germany</p>
+                            <p class="small">
+                                <a href="mailto:bernd.markscheffel@tu-ilmenau.de" class="text-primary">
+                                    <i class="fas fa-envelope me-1"></i> bernd.markscheffel@tu-ilmenau.de
+                                </a>
+                            </p>
+                        </div>
+                    </div>
+
+                    <!-- Person 3 -->
+                    <div class="col-md-6 col-lg-3">
+                        <div class="person-card">
+                            <img src="images/committee/pk_jain.jpg" alt="Dr. P K Jain"
+                                class="img-fluid rounded-circle mb-3"
+                                style="width: 150px; height: 150px; object-fit: cover;">
+                            <h5>Dr. P K Jain</h5>
+                            <p class="designation">Local Chair & Organizing Secretary, COLLNET 2025</p>
+                            <p class="small">Librarian, Institute of Economic Growth, Delhi, India</p>
+                            <p class="small">
+                                <a href="tel:+919899110787" class="text-primary">
+                                    <i class="fas fa-phone me-1"></i> +91 9899110787
+                                </a>
+                            </p>
+                            <p class="small">
+                                <a href="mailto:pkjain1310@gmail.com" class="text-primary">
+                                    <i class="fas fa-envelope me-1"></i> pkjain1310@gmail.com
+                                </a>
+                            </p>
+                        </div>
+                    </div>
+
+                    <!-- Person 4 -->
+                    <div class="col-md-6 col-lg-3">
+                        <div class="person-card">
+                            <img src="images/committee/debal_kar.jpg" alt="Dr. Debal C Kar"
+                                class="img-fluid rounded-circle mb-3"
+                                style="width: 150px; height: 150px; object-fit: cover;">
+                            <h5>Dr. Debal C Kar</h5>
+                            <p class="designation">Program Chair, COLLNET 2025</p>
+                            <p class="small">Librarian, Galgotia University Noida, Delhi, India</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- More Committee Members Row -->
+                <div class="row mt-4">
+                    <!-- Person 5 -->
+                    <div class="col-md-6 col-lg-3">
+                        <div class="person-card">
+                            <img src="images/committee/parveen_babbar.jpg" alt="Dr. Parveen Babbar"
+                                class="img-fluid rounded-circle mb-3"
+                                style="width: 150px; height: 150px; object-fit: cover;">
+                            <h5>Dr. Parveen Babbar</h5>
+                            <p class="designation">Coordinator, COLLNET 2025</p>
+                            <p class="small">Deputy Librarian, Jawaharlal Nehru University, New Delhi, India</p>
+                        </div>
+                    </div>
+
+                    <!-- Person 6 -->
+                    <div class="col-md-6 col-lg-3">
+                        <div class="person-card">
+                            <img src="images/committee/nk_wadhwa.jpg" alt="N. K. Wadhwa"
+                                class="img-fluid rounded-circle mb-3"
+                                style="width: 150px; height: 150px; object-fit: cover;">
+                            <h5>N. K. Wadhwa</h5>
+                            <p class="designation">Coordinator, COLLNET 2025</p>
+                            <p class="small">Former Chief Scientist, CSIR-NPL, Delhi, India</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="text-center mt-4">
+                    <a href="pages/committee.html" class="btn btn-primary">
+                        <i class="fas fa-users me-2"></i> View Full Committee
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Sponsors & Partners Section -->
+        <section id="sponsors" class="py-5 bg-light">
+            <div class="container">
+                <h2 class="section-title">Knowledge Partners & Sponsors</h2>
+
+                <div class="row text-center">
+                    <div class="col-md-4 mb-4">
+                        <div class="card border-0 shadow h-100">
+                            <div class="card-body p-4">
+                                <h5 class="card-title">Academic Partners</h5>
+                                <div class="py-3">
+                                    <img src="images/sponsors/slp-logo.png" alt="Society for Library Professionals"
+                                        class="img-fluid mb-3" style="max-height: 100px;">
+                                    <img src="images/sponsors/sla-logo.png" alt="Special Libraries Association"
+                                        class="img-fluid" style="max-height: 100px;">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4 mb-4">
+                        <div class="card border-0 shadow h-100">
+                            <div class="card-body p-4">
+                                <h5 class="card-title">Supported By</h5>
+                                <div class="py-3">
+                                    <img src="images/sponsors/ieg-logo.png" alt="Institute of Economic Growth"
+                                        class="img-fluid mb-3" style="max-height: 100px;">
+                                    <img src="images/sponsors/du-logo.png" alt="University of Delhi" class="img-fluid"
+                                        style="max-height: 100px;">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4 mb-4">
+                        <div class="card border-0 shadow h-100">
+                            <div class="card-body p-4">
+                                <h5 class="card-title">Gold Sponsors</h5>
+                                <div class="py-3 d-flex flex-column align-items-center justify-content-center h-100">
+                                    <p class="text-muted">Sponsorship opportunities available.<br>Contact us to become a
+                                        sponsor.</p>
+                                    <a href="pages/contact.html" class="btn btn-sm btn-outline-primary mt-2">Contact
+                                        Us</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-dark text-white py-4">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 mb-4 mb-md-0">
+                    <h5 class="mb-3 fw-bold">COLLNET 2025</h5>
+                    <p class="mb-0">19th International Conference on Webometrics, Informetrics & Scientometrics (WIS)
+                        and the 24th COLLNET Meeting</p>
+                    <p class="mb-0">September 19-21, 2025</p>
+                    <p>Institute of Economic Growth, Delhi, India</p>
+                </div>
+
+                <div class="col-md-4 mb-4 mb-md-0">
+                    <h5 class="mb-3 fw-bold">Quick Links</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="pages/about.html"><i class="fas fa-angle-right me-2"></i> About COLLNET</a></li>
+                        <li><a href="pages/call-for-papers.html"><i class="fas fa-angle-right me-2"></i> Call for
+                                Papers</a></li>
+                        <li><a href="pages/registration.html"><i class="fas fa-angle-right me-2"></i> Registration</a>
+                        </li>
+                        <li><a href="pages/program.html"><i class="fas fa-angle-right me-2"></i> Program Schedule</a>
+                        </li>
+                        <li><a href="pages/contact.html"><i class="fas fa-angle-right me-2"></i> Contact Us</a></li>
+                    </ul>
+                </div>
+
+                <div class="col-md-4">
+                    <h5 class="mb-3 fw-bold">Contact Info</h5>
+                    <p><i class="fas fa-envelope me-2"></i> collnet2025@gmail.com</p>
+                    <p><i class="fas fa-phone me-2"></i> +91-9899110787</p>
+                    <div class="social-icons mt-3">
+                        <a href="#" target="_blank"><i class="fab fa-twitter"></i></a>
+                        <a href="#" target="_blank"><i class="fab fa-facebook"></i></a>
+                        <a href="#" target="_blank"><i class="fab fa-linkedin"></i></a>
+                        <a href="#" target="_blank"><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+            </div>
+
+            <hr class="my-4 bg-secondary">
+
+            <div class="row">
+                <div class="col-md-6 text-center text-md-start">
+                    <p class="mb-0">&copy; 2025 COLLNET. All Rights Reserved.</p>
+                </div>
+                <div class="col-md-6 text-center text-md-end">
+                    <a href="#" class="text-white text-decoration-none">Privacy Policy</a>
+                    <span class="mx-2">|</span>
+                    <a href="#" class="text-white text-decoration-none">Terms of Service</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Bootstrap JS Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Custom JavaScript -->
+    <script src="js/main.js"></script>
+</body>
+
+</html>
